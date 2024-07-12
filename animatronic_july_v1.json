@@ -1,0 +1,1053 @@
+{
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "minecraft google play",
+      "image": "https://lh3.googleusercontent.com/d/https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Minecraft Skin",
+      "image": "https://lh3.googleusercontent.com/d/http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "minecraft play store",
+      "image": "https://lh3.googleusercontent.com/d/file:///android_asset/image/car.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Nature",
+      "title": "Animatronic 001",
+      "image": "file:///android_asset/view/animatronic_001.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_001.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
+    },
+    {
+      "id": 2,
+      "name_category": "Nature",
+      "title": "Animatronic 002",
+      "image": "file:///android_asset/view/animatronic_002.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_002.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
+    },
+    {
+      "id": 3,
+      "name_category": "Nature",
+      "title": "Animatronic 003",
+      "image": "file:///android_asset/view/animatronic_003.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_003.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
+    },
+    {
+      "id": 4,
+      "name_category": "Nature",
+      "title": "Animatronic 004",
+      "image": "file:///android_asset/view/animatronic_004.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_004.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
+    },
+    {
+      "id": 5,
+      "name_category": "Nature",
+      "title": "Animatronic 005",
+      "image": "file:///android_asset/view/animatronic_005.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_005.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
+    },
+    {
+      "id": 6,
+      "name_category": "Nature",
+      "title": "Animatronic 006",
+      "image": "file:///android_asset/view/animatronic_006.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_006.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
+    },
+    {
+      "id": 7,
+      "name_category": "Nature",
+      "title": "Animatronic 007",
+      "image": "file:///android_asset/view/animatronic_007.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_007.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
+    },
+    {
+      "id": 8,
+      "name_category": "Nature",
+      "title": "Animatronic 008",
+      "image": "file:///android_asset/view/animatronic_008.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_008.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
+    },
+    {
+      "id": 9,
+      "name_category": "Nature",
+      "title": "Animatronic 009",
+      "image": "file:///android_asset/view/animatronic_009.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_009.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
+    },
+    {
+      "id": 10,
+      "name_category": "Nature",
+      "title": "Animatronic 010",
+      "image": "file:///android_asset/view/animatronic_010.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_010.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
+    },
+    {
+      "id": 11,
+      "name_category": "Nature",
+      "title": "Animatronic 011",
+      "image": "file:///android_asset/view/animatronic_011.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_011.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
+    },
+    {
+      "id": 12,
+      "name_category": "Nature",
+      "title": "Animatronic 012",
+      "image": "file:///android_asset/view/animatronic_012.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_012.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
+    },
+    {
+      "id": 13,
+      "name_category": "Nature",
+      "title": "Animatronic 013",
+      "image": "file:///android_asset/view/animatronic_013.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_013.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
+    },
+    {
+      "id": 14,
+      "name_category": "Nature",
+      "title": "Animatronic 014",
+      "image": "file:///android_asset/view/animatronic_014.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_014.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
+    },
+    {
+      "id": 15,
+      "name_category": "Nature",
+      "title": "Animatronic 015",
+      "image": "file:///android_asset/view/animatronic_015.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_015.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
+    },
+    {
+      "id": 16,
+      "name_category": "Nature",
+      "title": "Animatronic 016",
+      "image": "file:///android_asset/view/animatronic_016.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_016.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
+    },
+    {
+      "id": 17,
+      "name_category": "Nature",
+      "title": "Animatronic 017",
+      "image": "file:///android_asset/view/animatronic_017.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_017.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
+    },
+    {
+      "id": 18,
+      "name_category": "Nature",
+      "title": "Animatronic 018",
+      "image": "file:///android_asset/view/animatronic_018.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_018.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
+    },
+    {
+      "id": 19,
+      "name_category": "Nature",
+      "title": "Animatronic 019",
+      "image": "file:///android_asset/view/animatronic_019.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_019.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
+    },
+    {
+      "id": 20,
+      "name_category": "Nature",
+      "title": "Animatronic 020",
+      "image": "file:///android_asset/view/animatronic_020.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_020.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
+    },
+    {
+      "id": 21,
+      "name_category": "Nature",
+      "title": "Animatronic 021",
+      "image": "file:///android_asset/view/animatronic_021.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_021.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
+    },
+    {
+      "id": 22,
+      "name_category": "Nature",
+      "title": "Animatronic 022",
+      "image": "file:///android_asset/view/animatronic_022.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_022.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
+    },
+    {
+      "id": 23,
+      "name_category": "Nature",
+      "title": "Animatronic 023",
+      "image": "file:///android_asset/view/animatronic_023.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_023.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
+    },
+    {
+      "id": 24,
+      "name_category": "Nature",
+      "title": "Animatronic 024",
+      "image": "file:///android_asset/view/animatronic_024.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_024.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
+    },
+    {
+      "id": 25,
+      "name_category": "Nature",
+      "title": "Animatronic 025",
+      "image": "file:///android_asset/view/animatronic_025.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_025.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
+    },
+    {
+      "id": 26,
+      "name_category": "Nature",
+      "title": "Animatronic 026",
+      "image": "file:///android_asset/view/animatronic_026.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_026.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
+    },
+    {
+      "id": 27,
+      "name_category": "Nature",
+      "title": "Animatronic 027",
+      "image": "file:///android_asset/view/animatronic_027.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_027.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
+    },
+    {
+      "id": 28,
+      "name_category": "Nature",
+      "title": "Animatronic 028",
+      "image": "file:///android_asset/view/animatronic_028.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_028.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
+    },
+    {
+      "id": 29,
+      "name_category": "Nature",
+      "title": "Animatronic 029",
+      "image": "file:///android_asset/view/animatronic_029.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_029.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
+    },
+    {
+      "id": 30,
+      "name_category": "Nature",
+      "title": "Animatronic 030",
+      "image": "file:///android_asset/view/animatronic_030.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_030.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
+    },
+    {
+      "id": 31,
+      "name_category": "Nature",
+      "title": "Animatronic 031",
+      "image": "file:///android_asset/view/animatronic_031.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_031.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
+    },
+    {
+      "id": 32,
+      "name_category": "Nature",
+      "title": "Animatronic 032",
+      "image": "file:///android_asset/view/animatronic_032.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_032.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
+    },
+    {
+      "id": 33,
+      "name_category": "Nature",
+      "title": "Animatronic 033",
+      "image": "file:///android_asset/view/animatronic_033.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_033.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
+    },
+    {
+      "id": 34,
+      "name_category": "Nature",
+      "title": "Animatronic 034",
+      "image": "file:///android_asset/view/animatronic_034.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_034.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
+    },
+    {
+      "id": 35,
+      "name_category": "Nature",
+      "title": "Animatronic 035",
+      "image": "file:///android_asset/view/animatronic_035.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_035.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
+    },
+    {
+      "id": 36,
+      "name_category": "Nature",
+      "title": "Animatronic 036",
+      "image": "file:///android_asset/view/animatronic_036.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_036.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
+    },
+    {
+      "id": 37,
+      "name_category": "Nature",
+      "title": "Animatronic 037",
+      "image": "file:///android_asset/view/animatronic_037.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_037.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
+    },
+    {
+      "id": 38,
+      "name_category": "Nature",
+      "title": "Animatronic 038",
+      "image": "file:///android_asset/view/animatronic_038.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_038.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
+    },
+    {
+      "id": 39,
+      "name_category": "Nature",
+      "title": "Animatronic 039",
+      "image": "file:///android_asset/view/animatronic_039.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_039.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
+    },
+    {
+      "id": 40,
+      "name_category": "Nature",
+      "title": "Animatronic 040",
+      "image": "file:///android_asset/view/animatronic_040.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_040.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
+    },
+    {
+      "id": 41,
+      "name_category": "Nature",
+      "title": "Animatronic 041",
+      "image": "file:///android_asset/view/animatronic_041.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_041.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-5.mcpack"
+    },
+    {
+      "id": 42,
+      "name_category": "Nature",
+      "title": "Animatronic 042",
+      "image": "file:///android_asset/view/animatronic_042.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_042.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-5.mcpack"
+    },
+    {
+      "id": 43,
+      "name_category": "Nature",
+      "title": "Animatronic 043",
+      "image": "file:///android_asset/view/animatronic_043.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_043.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-5.mcpack"
+    },
+    {
+      "id": 44,
+      "name_category": "Nature",
+      "title": "Animatronic 044",
+      "image": "file:///android_asset/view/animatronic_044.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_044.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-5.mcpack"
+    },
+    {
+      "id": 45,
+      "name_category": "Nature",
+      "title": "Animatronic 045",
+      "image": "file:///android_asset/view/animatronic_045.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_045.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-5.mcpack"
+    },
+    {
+      "id": 46,
+      "name_category": "Nature",
+      "title": "Animatronic 046",
+      "image": "file:///android_asset/view/animatronic_046.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_046.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-5.mcpack"
+    },
+    {
+      "id": 47,
+      "name_category": "Nature",
+      "title": "Animatronic 047",
+      "image": "file:///android_asset/view/animatronic_047.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_047.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-5.mcpack"
+    },
+    {
+      "id": 48,
+      "name_category": "Nature",
+      "title": "Animatronic 048",
+      "image": "file:///android_asset/view/animatronic_048.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_048.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-5.mcpack"
+    },
+    {
+      "id": 49,
+      "name_category": "Nature",
+      "title": "Animatronic 049",
+      "image": "file:///android_asset/view/animatronic_049.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_049.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-5.mcpack"
+    },
+    {
+      "id": 50,
+      "name_category": "Nature",
+      "title": "Animatronic 050",
+      "image": "file:///android_asset/view/animatronic_050.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_050.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-6.mcpack"
+    },
+    {
+      "id": 51,
+      "name_category": "Nature",
+      "title": "Animatronic 051",
+      "image": "file:///android_asset/view/animatronic_051.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_051.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-6.mcpack"
+    },
+    {
+      "id": 52,
+      "name_category": "Nature",
+      "title": "Animatronic 052",
+      "image": "file:///android_asset/view/animatronic_052.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_052.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-6.mcpack"
+    },
+    {
+      "id": 53,
+      "name_category": "Nature",
+      "title": "Animatronic 053",
+      "image": "file:///android_asset/view/animatronic_053.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_053.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-6.mcpack"
+    },
+    {
+      "id": 54,
+      "name_category": "Nature",
+      "title": "Animatronic 054",
+      "image": "file:///android_asset/view/animatronic_054.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_054.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-6.mcpack"
+    },
+    {
+      "id": 55,
+      "name_category": "Nature",
+      "title": "Animatronic 055",
+      "image": "file:///android_asset/view/animatronic_055.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_055.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-6.mcpack"
+    },
+    {
+      "id": 56,
+      "name_category": "Nature",
+      "title": "Animatronic 056",
+      "image": "file:///android_asset/view/animatronic_056.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_056.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-6.mcpack"
+    },
+    {
+      "id": 57,
+      "name_category": "Nature",
+      "title": "Animatronic 057",
+      "image": "file:///android_asset/view/animatronic_057.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_057.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-6.mcpack"
+    },
+    {
+      "id": 58,
+      "name_category": "Nature",
+      "title": "Animatronic 058",
+      "image": "file:///android_asset/view/animatronic_058.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_058.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-6.mcpack"
+    },
+    {
+      "id": 59,
+      "name_category": "Nature",
+      "title": "Animatronic 059",
+      "image": "file:///android_asset/view/animatronic_059.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_059.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-7.mcpack"
+    },
+    {
+      "id": 60,
+      "name_category": "Nature",
+      "title": "Animatronic 060",
+      "image": "file:///android_asset/view/animatronic_060.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_060.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-7.mcpack"
+    },
+    {
+      "id": 61,
+      "name_category": "Nature",
+      "title": "Animatronic 061",
+      "image": "file:///android_asset/view/animatronic_061.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_061.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-7.mcpack"
+    },
+    {
+      "id": 62,
+      "name_category": "Nature",
+      "title": "Animatronic 062",
+      "image": "file:///android_asset/view/animatronic_062.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_062.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-7.mcpack"
+    },
+    {
+      "id": 63,
+      "name_category": "Nature",
+      "title": "Animatronic 063",
+      "image": "file:///android_asset/view/animatronic_063.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_063.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-7.mcpack"
+    },
+    {
+      "id": 64,
+      "name_category": "Nature",
+      "title": "Animatronic 064",
+      "image": "file:///android_asset/view/animatronic_064.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_064.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-7.mcpack"
+    },
+    {
+      "id": 65,
+      "name_category": "Nature",
+      "title": "Animatronic 065",
+      "image": "file:///android_asset/view/animatronic_065.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_065.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-7.mcpack"
+    },
+    {
+      "id": 66,
+      "name_category": "Nature",
+      "title": "Animatronic 066",
+      "image": "file:///android_asset/view/animatronic_066.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_066.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-7.mcpack"
+    },
+    {
+      "id": 67,
+      "name_category": "Nature",
+      "title": "Animatronic 067",
+      "image": "file:///android_asset/view/animatronic_067.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_067.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-7.mcpack"
+    },
+    {
+      "id": 68,
+      "name_category": "Nature",
+      "title": "Animatronic 068",
+      "image": "file:///android_asset/view/animatronic_068.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_068.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-7.mcpack"
+    },
+    {
+      "id": 69,
+      "name_category": "Nature",
+      "title": "Animatronic 069",
+      "image": "file:///android_asset/view/animatronic_069.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_069.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-8.mcpack"
+    },
+    {
+      "id": 70,
+      "name_category": "Nature",
+      "title": "Animatronic 070",
+      "image": "file:///android_asset/view/animatronic_070.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_070.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-8.mcpack"
+    },
+    {
+      "id": 71,
+      "name_category": "Nature",
+      "title": "Animatronic 071",
+      "image": "file:///android_asset/view/animatronic_071.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_071.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-8.mcpack"
+    },
+    {
+      "id": 72,
+      "name_category": "Nature",
+      "title": "Animatronic 072",
+      "image": "file:///android_asset/view/animatronic_072.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_072.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-8.mcpack"
+    },
+    {
+      "id": 73,
+      "name_category": "Nature",
+      "title": "Animatronic 073",
+      "image": "file:///android_asset/view/animatronic_073.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_073.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-8.mcpack"
+    },
+    {
+      "id": 74,
+      "name_category": "Nature",
+      "title": "Animatronic 074",
+      "image": "file:///android_asset/view/animatronic_074.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_074.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-8.mcpack"
+    },
+    {
+      "id": 75,
+      "name_category": "Nature",
+      "title": "Animatronic 075",
+      "image": "file:///android_asset/view/animatronic_075.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_075.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-8.mcpack"
+    },
+    {
+      "id": 76,
+      "name_category": "Nature",
+      "title": "Animatronic 076",
+      "image": "file:///android_asset/view/animatronic_076.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_076.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-8.mcpack"
+    },
+    {
+      "id": 77,
+      "name_category": "Nature",
+      "title": "Animatronic 077",
+      "image": "file:///android_asset/view/animatronic_077.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_077.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-8.mcpack"
+    },
+    {
+      "id": 78,
+      "name_category": "Nature",
+      "title": "Animatronic 078",
+      "image": "file:///android_asset/view/animatronic_078.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_078.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-9.mcpack"
+    },
+    {
+      "id": 79,
+      "name_category": "Nature",
+      "title": "Animatronic 079",
+      "image": "file:///android_asset/view/animatronic_079.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_079.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-10.mcpack"
+    },
+    {
+      "id": 80,
+      "name_category": "Nature",
+      "title": "Animatronic 080",
+      "image": "file:///android_asset/view/animatronic_080.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_080.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-11.mcpack"
+    },
+    {
+      "id": 81,
+      "name_category": "Nature",
+      "title": "Animatronic 081",
+      "image": "file:///android_asset/view/animatronic_081.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_081.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-12.mcpack"
+    },
+    {
+      "id": 82,
+      "name_category": "Nature",
+      "title": "Animatronic 082",
+      "image": "file:///android_asset/view/animatronic_082.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_082.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-13.mcpack"
+    },
+    {
+      "id": 83,
+      "name_category": "Nature",
+      "title": "Animatronic 083",
+      "image": "file:///android_asset/view/animatronic_083.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_083.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-14.mcpack"
+    },
+    {
+      "id": 84,
+      "name_category": "Nature",
+      "title": "Animatronic 084",
+      "image": "file:///android_asset/view/animatronic_084.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_084.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-15.mcpack"
+    },
+    {
+      "id": 85,
+      "name_category": "Nature",
+      "title": "Animatronic 085",
+      "image": "file:///android_asset/view/animatronic_085.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_085.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-16.mcpack"
+    },
+    {
+      "id": 86,
+      "name_category": "Nature",
+      "title": "Animatronic 086",
+      "image": "file:///android_asset/view/animatronic_086.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_086.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-17.mcpack"
+    },
+    {
+      "id": 87,
+      "name_category": "Nature",
+      "title": "Animatronic 087",
+      "image": "file:///android_asset/view/animatronic_087.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_087.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-18.mcpack"
+    },
+    {
+      "id": 88,
+      "name_category": "Nature",
+      "title": "Animatronic 088",
+      "image": "file:///android_asset/view/animatronic_088.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_088.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-19.mcpack"
+    },
+    {
+      "id": 89,
+      "name_category": "Nature",
+      "title": "Animatronic 089",
+      "image": "file:///android_asset/view/animatronic_089.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_089.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-20.mcpack"
+    },
+    {
+      "id": 90,
+      "name_category": "Nature",
+      "title": "Animatronic 090",
+      "image": "file:///android_asset/view/animatronic_090.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_090.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-21.mcpack"
+    },
+    {
+      "id": 91,
+      "name_category": "Nature",
+      "title": "Animatronic 091",
+      "image": "file:///android_asset/view/animatronic_091.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_091.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-22.mcpack"
+    },
+    {
+      "id": 92,
+      "name_category": "Nature",
+      "title": "Animatronic 092",
+      "image": "file:///android_asset/view/animatronic_092.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_092.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-23.mcpack"
+    },
+    {
+      "id": 93,
+      "name_category": "Nature",
+      "title": "Animatronic 093",
+      "image": "file:///android_asset/view/animatronic_093.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_093.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-24.mcpack"
+    },
+    {
+      "id": 94,
+      "name_category": "Nature",
+      "title": "Animatronic 094",
+      "image": "file:///android_asset/view/animatronic_094.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_094.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-25.mcpack"
+    },
+    {
+      "id": 95,
+      "name_category": "Nature",
+      "title": "Animatronic 095",
+      "image": "file:///android_asset/view/animatronic_095.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_095.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-26.mcpack"
+    },
+    {
+      "id": 96,
+      "name_category": "Nature",
+      "title": "Animatronic 096",
+      "image": "file:///android_asset/view/animatronic_096.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_096.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-27.mcpack"
+    },
+    {
+      "id": 97,
+      "name_category": "Nature",
+      "title": "Animatronic 097",
+      "image": "file:///android_asset/view/animatronic_097.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_097.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-28.mcpack"
+    },
+    {
+      "id": 98,
+      "name_category": "Nature",
+      "title": "Animatronic 098",
+      "image": "file:///android_asset/view/animatronic_098.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_098.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-29.mcpack"
+    },
+    {
+      "id": 99,
+      "name_category": "Nature",
+      "title": "Animatronic 099",
+      "image": "file:///android_asset/view/animatronic_099.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_099.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-30.mcpack"
+    },
+    {
+      "id": 100,
+      "name_category": "Nature",
+      "title": "Animatronic 100",
+      "image": "file:///android_asset/view/animatronic_100.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_100.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-31.mcpack"
+    },
+    {
+      "id": 101,
+      "name_category": "Nature",
+      "title": "Animatronic 101",
+      "image": "file:///android_asset/view/animatronic_101.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_101.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-32.mcpack"
+    },
+    {
+      "id": 102,
+      "name_category": "Nature",
+      "title": "Animatronic 102",
+      "image": "file:///android_asset/view/animatronic_102.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_102.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-33.mcpack"
+    },
+    {
+      "id": 103,
+      "name_category": "Nature",
+      "title": "Animatronic 103",
+      "image": "file:///android_asset/view/animatronic_103.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_103.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-34.mcpack"
+    },
+    {
+      "id": 104,
+      "name_category": "Nature",
+      "title": "Animatronic 104",
+      "image": "file:///android_asset/view/animatronic_104.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_104.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-35.mcpack"
+    },
+    {
+      "id": 105,
+      "name_category": "Nature",
+      "title": "Animatronic 105",
+      "image": "file:///android_asset/view/animatronic_105.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_105.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-36.mcpack"
+    },
+    {
+      "id": 106,
+      "name_category": "Nature",
+      "title": "Animatronic 106",
+      "image": "file:///android_asset/view/animatronic_106.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_106.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-37.mcpack"
+    },
+    {
+      "id": 107,
+      "name_category": "Nature",
+      "title": "Animatronic 107",
+      "image": "file:///android_asset/view/animatronic_107.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_107.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-38.mcpack"
+    },
+    {
+      "id": 108,
+      "name_category": "Nature",
+      "title": "Animatronic 108",
+      "image": "file:///android_asset/view/animatronic_108.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_108.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-39.mcpack"
+    },
+    {
+      "id": 109,
+      "name_category": "Nature",
+      "title": "Animatronic 109",
+      "image": "file:///android_asset/view/animatronic_109.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_109.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-40.mcpack"
+    },
+    {
+      "id": 110,
+      "name_category": "Nature",
+      "title": "Animatronic 110",
+      "image": "file:///android_asset/view/animatronic_110.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_110.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-41.mcpack"
+    },
+    {
+      "id": 111,
+      "name_category": "Nature",
+      "title": "Animatronic 111",
+      "image": "file:///android_asset/view/animatronic_111.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_111.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-42.mcpack"
+    },
+    {
+      "id": 112,
+      "name_category": "Nature",
+      "title": "Animatronic 112",
+      "image": "file:///android_asset/view/animatronic_112.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_112.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-43.mcpack"
+    },
+    {
+      "id": 113,
+      "name_category": "Nature",
+      "title": "Animatronic 113",
+      "image": "file:///android_asset/view/animatronic_113.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_113.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-44.mcpack"
+    },
+    {
+      "id": 114,
+      "name_category": "Nature",
+      "title": "Animatronic 114",
+      "image": "file:///android_asset/view/animatronic_114.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_114.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-45.mcpack"
+    },
+    {
+      "id": 115,
+      "name_category": "Nature",
+      "title": "Animatronic 115",
+      "image": "file:///android_asset/view/animatronic_115.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_115.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-46.mcpack"
+    },
+    {
+      "id": 116,
+      "name_category": "Nature",
+      "title": "Animatronic 116",
+      "image": "file:///android_asset/view/animatronic_116.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_116.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-47.mcpack"
+    },
+    {
+      "id": 117,
+      "name_category": "Nature",
+      "title": "Animatronic 117",
+      "image": "file:///android_asset/view/animatronic_117.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_117.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-48.mcpack"
+    },
+    {
+      "id": 118,
+      "name_category": "Nature",
+      "title": "Animatronic 118",
+      "image": "file:///android_asset/view/animatronic_118.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_118.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-49.mcpack"
+    },
+    {
+      "id": 119,
+      "name_category": "Nature",
+      "title": "Animatronic 119",
+      "image": "file:///android_asset/view/animatronic_119.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_119.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-50.mcpack"
+    },
+    {
+      "id": 120,
+      "name_category": "Nature",
+      "title": "Animatronic 120",
+      "image": "file:///android_asset/view/animatronic_120.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_120.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-51.mcpack"
+    },
+    {
+      "id": 121,
+      "name_category": "Nature",
+      "title": "Animatronic 121",
+      "image": "file:///android_asset/view/animatronic_121.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_121.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-52.mcpack"
+    },
+    {
+      "id": 122,
+      "name_category": "Nature",
+      "title": "Animatronic 122",
+      "image": "file:///android_asset/view/animatronic_122.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_122.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-53.mcpack"
+    },
+    {
+      "id": 123,
+      "name_category": "Nature",
+      "title": "Animatronic 123",
+      "image": "file:///android_asset/view/animatronic_123.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_123.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-54.mcpack"
+    },
+    {
+      "id": 124,
+      "name_category": "Nature",
+      "title": "Animatronic 124",
+      "image": "file:///android_asset/view/animatronic_124.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_124.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-55.mcpack"
+    },
+    {
+      "id": 125,
+      "name_category": "Nature",
+      "title": "Animatronic 125",
+      "image": "file:///android_asset/view/animatronic_125.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_125.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-56.mcpack"
+    },
+    {
+      "id": 126,
+      "name_category": "Nature",
+      "title": "Animatronic 126",
+      "image": "file:///android_asset/view/animatronic_126.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_126.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-57.mcpack"
+    },
+    {
+      "id": 127,
+      "name_category": "Nature",
+      "title": "Animatronic 127",
+      "image": "file:///android_asset/view/animatronic_127.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_127.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-58.mcpack"
+    },
+    {
+      "id": 128,
+      "name_category": "Nature",
+      "title": "Animatronic 128",
+      "image": "file:///android_asset/view/animatronic_128.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_128.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-59.mcpack"
+    },
+    {
+      "id": 129,
+      "name_category": "Nature",
+      "title": "Animatronic 129",
+      "image": "file:///android_asset/view/animatronic_129.png",
+      "skin": "https://raw.githubusercontent.com/packbambank/erubyamy/main/animatronic/animatronic_129.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-60.mcpack"
+    }
+  ]
+}
